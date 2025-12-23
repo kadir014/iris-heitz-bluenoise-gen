@@ -3,7 +3,7 @@ This is the repository to generate ready-to-use bluenoise sampling SSBO data for
 
 I wrote this originally to use in my [Lyrae Shaderpack](https://modrinth.com/shader/lyrae-shaders). If you use it and find it helpful, I'd appreciate attribution.
 
-<img src="https://raw.githubusercontent.com/kadir014/iris-heitz-bluenoise-gen/refs/heads/main/github_assets/lyrae_noise_findings.png" width=600>
+<img src="https://raw.githubusercontent.com/kadir014/iris-heitz-bluenoise-gen/refs/heads/main/github_assets/lyrae_noise_findings.png" width=800>
 
 You can see my findings on different noise methods and how it affects a path traced sc ene.
 
